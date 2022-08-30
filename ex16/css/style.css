@@ -1,0 +1,38 @@
+* {
+    font-family: Arial;
+    font-size: 14px;
+}
+
+table {
+    border: 3px solid silver;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    text-align: center;
+    color: firebrick;
+    font-weight: bold;
+}
+
+td,
+th {
+    border: 1px solid black;
+    margin: 16px;
+    padding: 0 15px;
+}
+
+th {
+    background-color: olivedrab;
+}
+
+.subtitle {
+    background-image: none;
+    background-color: lightsalmon;
+}
+
+.options {
+    background-image: none;
+    background-color: khaki;
+}
+
+td {
+    background-image: url("../img/pawns.JPG");
+}
