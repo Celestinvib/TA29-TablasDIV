@@ -1,0 +1,15 @@
+p {
+    margin-bottom: 0;
+}
+ol {
+    margin-top: 0;
+}
+
+.alpha {
+    list-style-type: lower-alpha;
+}
+
+.roman {
+    list-style-type: upper-roman;
+}
+
