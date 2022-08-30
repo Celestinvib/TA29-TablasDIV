@@ -1,0 +1,35 @@
+div {
+    display: inline-block;
+    border-bottom: 2px solid dimgray;
+    border-right: 2px solid dimgray;
+    margin: 0;
+}
+table {
+    border-collapse: collapse;
+}
+
+td,
+th,
+tr {
+    border: 2px solid dodgerblue;
+}
+
+th {
+    background-color: rgb(0, 51, 0);
+    color: lightgreen;
+    padding: 0 20px;
+}
+
+td {
+    background-color: lightgreen;
+}
+
+/*Ex 12 added styles */
+
+.center-text {
+    text-align: center;
+}
+
+.broad-title {
+    padding: 0 40px;
+}
