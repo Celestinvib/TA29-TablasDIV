@@ -1,0 +1,31 @@
+table {
+    position: absolute;
+    left: 740px;
+    margin-top: 300px;
+    width: 600px;
+    outline: 1px solid black;
+    border: 3px solid khaki;
+    border-style: double;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    text-align: center;
+    background-color: white;
+
+}
+
+td,
+th {
+    border: 1px solid black;
+}
+
+td {
+    background-color: khaki;
+    border: 3px solid black;
+    border-style: double;
+}
+img {
+    position: absolute;
+    left: 540px;
+    top: 0;
+    z-index: -1;
+}
