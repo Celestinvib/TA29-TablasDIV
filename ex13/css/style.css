@@ -1,0 +1,40 @@
+h5 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-weight: bold;
+    text-align: center;
+    border: 3px solid silver;
+    border-bottom: 4px solid dimgray;
+    border-right: 4px solid dimgray;
+}
+
+td,
+th,
+tr {
+    border: 2px solid silver;
+}
+
+th {
+    background-color: lightgreen;
+}
+
+.red-title {
+    color: red;
+    border: 2.1px solid brown;
+}
+
+#cell2 {
+    text-align: left;
+    background-color: aqua;
+}
+
+#cell6 {
+    text-align: right;
+    background-color: orchid;
+    vertical-align: bottom;
+}
