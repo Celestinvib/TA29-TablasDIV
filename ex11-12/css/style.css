@@ -2,7 +2,7 @@ div {
     display: inline-block;
     border-bottom: 2px solid dimgray;
     border-right: 2px solid dimgray;
-    margin: 0;
+    margin-left: 10px;
 }
 table {
     border-collapse: collapse;

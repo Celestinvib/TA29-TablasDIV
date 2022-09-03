@@ -4,13 +4,15 @@ h5 {
 }
 
 table {
-    width: 100%;
+    width: 98%;
     border-collapse: collapse;
     font-weight: bold;
     text-align: center;
     border: 3px solid silver;
     border-bottom: 4px solid dimgray;
     border-right: 4px solid dimgray;
+    margin-left: 10px;
+    
 }
 
 td,

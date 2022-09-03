@@ -11,6 +11,7 @@ div {
 #screen1,
 #screen3 {
     outline: 2px solid mediumslateblue;
+    margin-left: 10px;
 }
 
 #screen1 ,#screen3, #falseScreen {
@@ -28,7 +29,7 @@ height: 140px;
     width: 370px;
     height: 370px;
     outline: 3px solid red;
-    margin-left: 18px;
+    margin-left: 28px;
 }
 
 /*General elements */

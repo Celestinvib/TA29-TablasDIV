@@ -10,6 +10,7 @@ table {
     text-align: center;
     color: firebrick;
     font-weight: bold;
+    margin-left: 10px;
 }
 
 td,
