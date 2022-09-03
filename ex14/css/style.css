@@ -1,6 +1,11 @@
+#container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+}
 table {
     position: absolute;
-    left: 740px;
     margin-top: 300px;
     width: 600px;
     outline: 1px solid black;
@@ -25,7 +30,6 @@ td {
 }
 img {
     position: absolute;
-    left: 540px;
     top: 0;
     z-index: -1;
 }
